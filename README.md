@@ -1,4 +1,4 @@
-<h1>Welcome Team!<h1>
+<h1>Welcome Team!</h1>
   
 <p>I look forward to working with everyone.</p>
 
